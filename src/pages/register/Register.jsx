@@ -34,7 +34,7 @@ const Register = () => {
     e.preventDefault();
     try {
       await axios
-        .post('http://localhost:5000/auth/register', {
+        .post('https://gamepad-api.onrender.com/auth/register', {
           email,
           username,
           password,
