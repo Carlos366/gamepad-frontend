@@ -1,0 +1,7 @@
+body {
+  background-color: #151515 !important;
+  min-height: 100vh;
+  max-width: 90%;
+  margin: 0 auto !important;
+  font-family: 'Poppins', sans-serif !important;
+}
